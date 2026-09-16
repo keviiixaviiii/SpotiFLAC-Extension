@@ -154,7 +154,7 @@
       "description": "TIDAL metadata, search, and download provider for SpotiFLAC Mobile with complete release, credits, explicit, and disc metadata from TIDAL Web.",
       "download_url": "https://raw.githubusercontent.com/keviiixaviii/SpotiFLAC-Extension/main/extensions/tidal-web.sflx",
       "sha256": "c0422ec40a8b41555e03ecbf7c6d9911a06d6a89eea418b64ca930e96794bd09",
-       "icon_url": "https://raw.githubusercontent.com/keviiixaviiii/SpotiFLAC-Extension/main/icons/tidal-web.png",
+       "icon_url": "https://raw.githubusercontent.com/keviiixaviiii/SpotiFLAC-Extension/main/icons/tidal-web.jpg",
       "category": "download",
       "tags": [
         "tidal",
